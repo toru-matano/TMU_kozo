@@ -1,4 +1,4 @@
-# TMU_nakamura
+# TMU_kozo
 merge all csv files and sort with time,
 take a difference of max and min for each set.
 
